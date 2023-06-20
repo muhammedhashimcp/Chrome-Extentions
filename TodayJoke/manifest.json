@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Today Joke",
+  "version": "1.0",
+  "description": "Read a joke every day",
+  "action":{
+	"default_popup":"./popup.html",
+	"default_icon": "fav.png"
+  }
+}

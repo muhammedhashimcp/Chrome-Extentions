@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Social Tags",
+  "version": "1.0",
+  "description": "Tag Social Tasks for Anyone!",
+  "action":{
+	"default_popup":"./popup.html",
+	"default_icon": "social-media.png"
+  }
+}

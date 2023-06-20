@@ -1,0 +1,26 @@
+p {
+	padding: 10px;
+	font-size: 16px;
+	min-width: 100px;
+	width: 300px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#tag-input {
+	margin-bottom: 10px;
+}
+#tag-list {
+	margin-top: 10px;
+}
+.tag-item {
+	display: inline-block;
+	padding: 5px 10px;
+	background-color: blue;
+	color: white;
+	border-radius: 20px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.tag-item:hover {
+	background-color: #007bff; /* Lighter shade of blue on hover */
+}

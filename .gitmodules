@@ -1,0 +1,3 @@
+[submodule "color-picker-chrome-extension"]
+	path = color-picker-chrome-extension
+	url = https://github.com/codersgyan/color-picker-chrome-extension.git
